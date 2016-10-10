@@ -1,7 +1,7 @@
 # SnapMe
-Selfie reminder app by William Lee
+Android app selfie reminder by William Lee
 ## Function
-* Notifies user to take a selfie.
+* Notifies user to take a daily selfie.
 * Stores selfie pictures in a list for users to see date taken as well.
 
 ## Development
