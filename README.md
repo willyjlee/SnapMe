@@ -2,7 +2,7 @@
 Android app selfie reminder by William Lee
 ## Function
 * Notifies user to take a daily selfie.
-* Stores selfie pictures in a list for users to see date taken as well.
+* Stores selfie pictures in a list for users to see (date also stored).
 
 ## Development
 * Files are saved on device memory.
